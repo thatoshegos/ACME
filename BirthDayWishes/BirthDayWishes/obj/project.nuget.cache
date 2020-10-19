@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mjOIdsaCjINm8ueyOGhO/Zh5iiyrzRpwrDcOKcMqdkuyvn24u87xZ1fIZV+ar3TMkQGHv6+MbmwcjCzwpxjaug==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\ACME SOFT PTY LTD\\BirthDayWishes\\BirthDayWishes\\BirthDayWishes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thato.mashego\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
